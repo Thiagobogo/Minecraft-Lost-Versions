@@ -1,0 +1,60 @@
+com/mojang/minecraft/level/LevelListener.java
+ com.mojang.minecraft.level.LevelListener
+com/mojang/minecraft/character/Vec3.java
+ com.mojang.minecraft.character.Vec3
+com/mojang/minecraft/character/Vertex.java
+ com.mojang.minecraft.character.Vertex
+com/mojang/minecraft/character/Polygon.java
+ com.mojang.minecraft.character.Polygon
+com/mojang/minecraft/HitResult.java
+ com.mojang.minecraft.HitResult
+com/mojang/minecraft/renderer/Tesselator.java
+ com.mojang.minecraft.renderer.Tesselator
+com/mojang/minecraft/renderer/Frustum.java
+ com.mojang.minecraft.renderer.Frustum
+com/mojang/minecraft/MinecraftApplet.java
+ com.mojang.minecraft.MinecraftApplet
+com/mojang/minecraft/gui/Font.java
+ com.mojang.minecraft.gui.Font
+com/mojang/minecraft/Timer.java
+ com.mojang.minecraft.Timer
+com/mojang/minecraft/character/Cube.java
+ com.mojang.minecraft.character.Cube
+com/mojang/minecraft/character/ZombieModel.java
+ com.mojang.minecraft.character.ZombieModel
+com/mojang/minecraft/phys/AABB.java
+ com.mojang.minecraft.phys.AABB
+com/mojang/minecraft/renderer/Textures.java
+ com.mojang.minecraft.renderer.Textures
+com/mojang/minecraft/level/LevelGen.java
+ com.mojang.minecraft.level.LevelGen
+com/mojang/minecraft/level/NoiseMap.java
+ com.mojang.minecraft.level.NoiseMap
+com/mojang/minecraft/level/Level.java
+ com.mojang.minecraft.level.Level
+com/mojang/minecraft/Minecraft.java
+ com.mojang.minecraft.Minecraft
+com/mojang/minecraft/particle/ParticleEngine.java
+ com.mojang.minecraft.particle.ParticleEngine
+com/mojang/minecraft/level/tile/Bush.java
+ com.mojang.minecraft.level.tile.Bush
+com/mojang/minecraft/level/LevelRenderer.java
+ com.mojang.minecraft.level.LevelRenderer
+com/mojang/minecraft/level/tile/Tile.java
+ com.mojang.minecraft.level.tile.Tile
+com/mojang/minecraft/particle/Particle.java
+ com.mojang.minecraft.particle.Particle
+com/mojang/minecraft/level/DirtyChunkSorter.java
+ com.mojang.minecraft.level.DirtyChunkSorter
+com/mojang/minecraft/character/Zombie.java
+ com.mojang.minecraft.character.Zombie
+com/mojang/minecraft/Entity.java
+ com.mojang.minecraft.Entity
+com/mojang/minecraft/Player.java
+ com.mojang.minecraft.Player
+com/mojang/minecraft/level/tile/DirtTile.java
+ com.mojang.minecraft.level.tile.DirtTile
+com/mojang/minecraft/level/Chunk.java
+ com.mojang.minecraft.level.Chunk
+com/mojang/minecraft/level/tile/GrassTile.java
+ com.mojang.minecraft.level.tile.GrassTile
